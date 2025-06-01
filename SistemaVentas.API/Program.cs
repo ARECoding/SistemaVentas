@@ -12,6 +12,14 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.InyectarDependencias(builder.Configuration);
 
+builder.Services.AddCors(options =>
+    options.AddPolicy("Nueva Politica", app => {
+        app.AllowAnyOrigin()
+           .AllowAnyMethod()
+           .AllowAnyHeader();
+        }
+    ));
+
 
 var app = builder.Build();
 
@@ -21,6 +29,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("Nueva Politica");
 
 app.UseAuthorization();
 
