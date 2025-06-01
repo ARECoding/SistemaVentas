@@ -1,0 +1,15 @@
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.DAL.deps.json
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.DAL.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.DAL.pdb
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.AssemblyInfoInputs.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.AssemblyInfo.cs
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\refint\SistemaVentas.DAL.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.pdb
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\ref\SistemaVentas.DAL.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.Model.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.Model.pdb
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.csproj.AssemblyReference.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DAL\obj\Debug\net8.0\SistemaV.09417178.Up2Date

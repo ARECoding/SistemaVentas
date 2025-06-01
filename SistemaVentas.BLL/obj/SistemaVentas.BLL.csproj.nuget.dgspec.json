@@ -1,0 +1,375 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj",
+        "projectName": "SistemaVentas.BLL",
+        "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj",
+        "packagesPath": "C:\\Users\\Espin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj": {
+                "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj"
+              },
+              "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+                "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
+              },
+              "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj": {
+                "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj"
+              },
+              "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj": {
+                "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj",
+        "projectName": "SistemaVentas.DAL",
+        "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj",
+        "packagesPath": "C:\\Users\\Espin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj": {
+                "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj",
+        "projectName": "SistemaVentas.DTO",
+        "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj",
+        "packagesPath": "C:\\Users\\Espin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj",
+        "projectName": "SistemaVentas.Model",
+        "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj",
+        "packagesPath": "C:\\Users\\Espin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj",
+        "projectName": "SistemaVentas.Utility",
+        "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj",
+        "packagesPath": "C:\\Users\\Espin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+                "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
+              },
+              "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj": {
+                "projectPath": "C:\\Users\\Espin\\Downloads\\Yo\\Projects\\Learning\\Dotnet\\testuint\\CQRS\\APISistVenta\\SistemaVentas.Model\\SistemaVentas.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

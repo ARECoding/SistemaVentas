@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VaUuuJlnPzPTblNgqmES+KrWPR56GobByXuK+8HmAT8=",
+  "Source": "SistemaVentas.API",
+  "BasePath": "_content/SistemaVentas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

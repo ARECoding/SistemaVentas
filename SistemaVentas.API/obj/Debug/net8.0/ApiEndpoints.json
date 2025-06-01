@@ -1,0 +1,227 @@
+[
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.CategoriaController",
+    "Method": "Listar",
+    "RelativePath": "api/Categoria/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.DashboardController",
+    "Method": "Summary",
+    "RelativePath": "api/Dashboard/resumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.MenuController",
+    "Method": "Lista",
+    "RelativePath": "api/Menu/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.ProductoController",
+    "Method": "EditUser",
+    "RelativePath": "api/Producto/editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "SistemaVentas.DTO.ProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.ProductoController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Producto/eliminar/{idProducto}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProducto",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.ProductoController",
+    "Method": "SaveProduct",
+    "RelativePath": "api/Producto/guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "SistemaVentas.DTO.ProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.ProductoController",
+    "Method": "Lista",
+    "RelativePath": "api/Producto/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.RolController",
+    "Method": "Lista",
+    "RelativePath": "api/Rol/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.UsuarioController",
+    "Method": "EditUser",
+    "RelativePath": "api/Usuario/editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SistemaVentas.DTO.UsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.UsuarioController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Usuario/eliminar/{idUsuario}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.UsuarioController",
+    "Method": "SaveUser",
+    "RelativePath": "api/Usuario/guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SistemaVentas.DTO.UsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "api/Usuario/iniciarSesion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "SistemaVentas.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.UsuarioController",
+    "Method": "Lista",
+    "RelativePath": "api/Usuario/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.VentaController",
+    "Method": "Lista",
+    "RelativePath": "api/Venta/historial",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "buscarPor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "numeroVenta",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaInicio",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaFin",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVentas.API.Controllers.VentaController",
+    "Method": "SaveProduct",
+    "RelativePath": "api/Venta/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "venta",
+        "Type": "SistemaVentas.DTO.VentaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

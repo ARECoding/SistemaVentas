@@ -1,0 +1,11 @@
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\bin\Debug\net8.0\SistemaVentas.DTO.deps.json
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\bin\Debug\net8.0\SistemaVentas.DTO.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\bin\Debug\net8.0\SistemaVentas.DTO.pdb
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.AssemblyInfoInputs.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.AssemblyInfo.cs
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\obj\Debug\net8.0\refint\SistemaVentas.DTO.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.pdb
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.DTO\obj\Debug\net8.0\ref\SistemaVentas.DTO.dll

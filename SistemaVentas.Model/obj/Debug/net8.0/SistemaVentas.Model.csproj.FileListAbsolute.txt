@@ -1,0 +1,14 @@
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\bin\Debug\net8.0\SistemaVentas.Model.deps.json
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\bin\Debug\net8.0\SistemaVentas.Model.runtimeconfig.json
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\bin\Debug\net8.0\SistemaVentas.Model.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\bin\Debug\net8.0\SistemaVentas.Model.pdb
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\SistemaVentas.Model.csproj.AssemblyReference.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\SistemaVentas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\SistemaVentas.Model.AssemblyInfoInputs.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\SistemaVentas.Model.AssemblyInfo.cs
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\SistemaVentas.Model.csproj.CoreCompileInputs.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\SistemaVentas.Model.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\refint\SistemaVentas.Model.dll
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\SistemaVentas.Model.pdb
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\SistemaVentas.Model.genruntimeconfig.cache
+C:\Users\Espin\Downloads\Yo\Projects\Learning\Dotnet\testuint\CQRS\APISistVenta\SistemaVentas.Model\obj\Debug\net8.0\ref\SistemaVentas.Model.dll
